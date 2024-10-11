@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sayat-a
+- 👀 I’m interested in learning and developing code
+- 🌱 I’m currently learning Python
+- 📫 How to reach me - sayat.aubakirov.kz@gmail.com
