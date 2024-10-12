@@ -4,7 +4,7 @@ Hi 👋 My name is Sayat
 Python Developer
 ----------------
 
-I've been working at banking sector for over 10 years, but now I've decided to switch careers. I have reaaly found a passion for development
+I've been working at banking sector for over 10 years, but now I've decided to switch careers. I have really found a passion for coding and development.
 
 * 🌍  I'm based in Astana, Kazakhstan
 * ✉️  You can contact me at [sayat.aubakirov.kz@gmail.com](mailto:sayat.aubakirov.kz@gmail.com)
